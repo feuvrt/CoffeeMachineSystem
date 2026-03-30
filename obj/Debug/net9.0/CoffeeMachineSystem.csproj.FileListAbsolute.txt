@@ -1,0 +1,15 @@
+C:\Users\HOME\Desktop\CoffeeMachineSystem\bin\Debug\net9.0\CoffeeMachineSystem.exe
+C:\Users\HOME\Desktop\CoffeeMachineSystem\bin\Debug\net9.0\CoffeeMachineSystem.deps.json
+C:\Users\HOME\Desktop\CoffeeMachineSystem\bin\Debug\net9.0\CoffeeMachineSystem.runtimeconfig.json
+C:\Users\HOME\Desktop\CoffeeMachineSystem\bin\Debug\net9.0\CoffeeMachineSystem.dll
+C:\Users\HOME\Desktop\CoffeeMachineSystem\bin\Debug\net9.0\CoffeeMachineSystem.pdb
+C:\Users\HOME\Desktop\CoffeeMachineSystem\obj\Debug\net9.0\CoffeeMachineSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\CoffeeMachineSystem\obj\Debug\net9.0\CoffeeMachineSystem.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\CoffeeMachineSystem\obj\Debug\net9.0\CoffeeMachineSystem.AssemblyInfo.cs
+C:\Users\HOME\Desktop\CoffeeMachineSystem\obj\Debug\net9.0\CoffeeMachineSystem.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\CoffeeMachineSystem\obj\Debug\net9.0\CoffeeMachineSystem.sourcelink.json
+C:\Users\HOME\Desktop\CoffeeMachineSystem\obj\Debug\net9.0\CoffeeMachineSystem.dll
+C:\Users\HOME\Desktop\CoffeeMachineSystem\obj\Debug\net9.0\refint\CoffeeMachineSystem.dll
+C:\Users\HOME\Desktop\CoffeeMachineSystem\obj\Debug\net9.0\CoffeeMachineSystem.pdb
+C:\Users\HOME\Desktop\CoffeeMachineSystem\obj\Debug\net9.0\CoffeeMachineSystem.genruntimeconfig.cache
+C:\Users\HOME\Desktop\CoffeeMachineSystem\obj\Debug\net9.0\ref\CoffeeMachineSystem.dll
