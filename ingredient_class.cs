@@ -16,7 +16,7 @@ namespace CoffeeMachineSystem {
 
     public string GetInfo(int indent = 0)
     {
-        return new string(' ', indent) + $"🧱 {Name} ({Mass}г)\n";
+        return new string(' ', indent) + $"◻︎ {Name} ({Mass}г)\n";
     }
 }
 

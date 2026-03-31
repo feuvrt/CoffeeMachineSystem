@@ -12,7 +12,7 @@ namespace CoffeeMachineSystem{
 
         if (Root == null)
         {
-            Console.WriteLine("❌ Рецепт не задан");
+            Console.WriteLine(" Рецепт не задан");
             return;
         }
 

@@ -15,14 +15,14 @@ namespace CoffeeMachineSystem {
     public Product Execute()
     {
         if (Children.Count < MinChildren || Children.Count > MaxChildren)
-            throw new Exception($"❌ {Name}: неверное количество элементов");
+            throw new Exception($" {Name}: неверное количество элементов");
 
         var inputs = Children.Select(c => c.Execute()).ToList();
 
         if (!IsValidSet(inputs))
         {
             string list = string.Join(", ", inputs.Select(p => p.Pretty()));
-            throw new Exception($"❌ {Name}: неверная комбинация ({list})");
+            throw new Exception($" {Name}: неверная комбинация ({list})");
         }
 
         return Process(inputs);
@@ -33,7 +33,7 @@ namespace CoffeeMachineSystem {
     public string GetInfo(int indent = 0)
     {
         string space = new string(' ', indent);
-        string res = space + $"⚡ {Name}\n";
+        string res = space + $"◼︎ {Name}\n";
 
         foreach (var c in Children)
             res += c.GetInfo(indent + 4);
